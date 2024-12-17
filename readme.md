@@ -4,6 +4,8 @@
 
 ---
 
+Find the latest release of the .exe on the releases page https://github.com/TheImaginear/dynamiX/releases
+
 ## 🚀 **Features**
 
 - **Dynamic Pinning**: Automatically pin collections based on time and day configurations.
