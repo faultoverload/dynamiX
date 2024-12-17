@@ -90,18 +90,23 @@ To access the Plex API, you need a valid token. Follow these steps to retrieve i
 3. Start the automation process by clicking **"Run Main Function"** on the **Logs** tab.
 
 The running program:
+
 ![image](https://github.com/user-attachments/assets/ba23b7e0-a80e-46ad-a249-5a4f9a989af0)
 
 Dynamic Exclusions list updated in the GUI:
+
 ![image](https://github.com/user-attachments/assets/dc492e99-27dd-40c6-99d7-7cdc8677a49a)
 
 User-Set Exemptions:
+
 ![image](https://github.com/user-attachments/assets/b8be6f61-5f2a-4275-9593-223ef4623047)
 
 Server Configuration Tab:
+
 ![image](https://github.com/user-attachments/assets/f943674f-f6c8-43e3-8094-31514a1eec58)
 
 Settings Tab:
+
 ![image](https://github.com/user-attachments/assets/af8490ce-4bcb-469a-9839-cace22a4b524)
 ![image](https://github.com/user-attachments/assets/a5de59cc-0866-4396-8032-2c84d59abd53)
 
