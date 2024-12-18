@@ -28,7 +28,7 @@ Find the latest release of the .exe on the releases page https://github.com/TheI
 ## 🛠️ **Installation**
 
 ### Option 1: Run the `.exe` File *(Recommended for Non-Developers)*
-1. Download the latest `script.exe` from the [Releases Page](https://github.com/YourUsername/DynamiX/releases).
+1. Download the latest `script.exe` from the [Releases Page](https://github.com/TheImaginear/DynamiX/releases).
 2. Place it in a directory of your choice.
 3. Double-click the `script.exe` to launch the application.
 
@@ -219,6 +219,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📢 **Support**
 
-If you encounter issues, please open a ticket in the [Issues](https://github.com/YourUsername/DynamiX/issues) section.
+If you encounter issues, please open a ticket in the [Issues](https://github.com/TheImaginear/DynamiX/issues) section.
 
 For general questions and feedback, feel free to reach out!
